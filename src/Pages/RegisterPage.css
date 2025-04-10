@@ -1,8 +1,8 @@
-body{
-    background-color: #68f4f4;
-}
-
-.register{
-    padding: 20px;
-    border-radius: 20px;
-}
+.register-form {
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .register-form:hover {
+    box-shadow: 0 0 20px rgba(0, 123, 255, 0.4);
+  }
+  
